@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Users",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "body": "export default {\n\tmyFun2: () => {\n\t\tUpdate_users.run();\n\t\tPlargo.run();\n\t}\n}",
+    "variables": []
+  },
+  "id": "Users_JSObject1",
+  "deleted": false,
+  "gitSyncId": "622f24f9f1c0af1ceded2b0c_622f6ef1f1c0af1ceded333a"
+}
